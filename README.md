@@ -1,5 +1,5 @@
-# CP2_SERS_Semestre_2
-CP2 | SERS | 2° Semestre
+# CP2_MLAM_Semestre_2
+CP2 | MLAM | 2° Semestre
 
 ## Integrante
 Nome: Pedro Henrique Neves
